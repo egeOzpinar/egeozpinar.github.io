@@ -1,1 +1,0 @@
-# egeozpinar.github.io
