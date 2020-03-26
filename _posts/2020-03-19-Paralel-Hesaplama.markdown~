@@ -32,4 +32,18 @@ Aynı miktarda veri ile paralel kalıp kullanarak yaptığımız hesaplama işle
 <a href="https://1.bp.blogspot.com/-mwfGLbEb9d8/Xfpue5zmXFI/AAAAAAAAIgs/mtLlAGG-j9QURP_V2F3Ra8QAaAJ2Q3zwgCLcBGAsYHQ/s1600/Screenshot%2Bfrom%2B2019-12-18%2B21-17-52.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="76" data-original-width="402" height="60" src="https://1.bp.blogspot.com/-mwfGLbEb9d8/Xfpue5zmXFI/AAAAAAAAIgs/mtLlAGG-j9QURP_V2F3Ra8QAaAJ2Q3zwgCLcBGAsYHQ/s320/Screenshot%2Bfrom%2B2019-12-18%2B21-17-52.png" width="320" /></a></div>
 
 
-Yukarıdaki çıktılardan da görebileceğimiz üzere paralel olarak yapılan işlem yaklaşık 2.5 kat daha hızlı yapılmakta. Buradan da anlayabileceğimiz gibi, büyük programları işlemci üzerinde paralel olarak çalıştırtmak çok daha fazla hız kazandırır.
+Yukarıdaki çıktılardan da görebileceğimiz üzere paralel olarak yapılan işlem yaklaşık 2.5 kat daha hızlı yapılmakta. Buradan da anlayabileceğimiz gibi, büyük programları işlemci üzerinde paralel olarak çalıştırtmak bize gayet fazla bir hız kazandırır.
+
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+
