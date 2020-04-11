@@ -1,1 +1,1 @@
-# egeozpinar.github.io
+# ebozpinar.me
